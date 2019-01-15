@@ -1,0 +1,9 @@
+﻿  robot_base.cpp
+c:\users\joseph\desktop\year 2\ai\racing-bot-joes1991\src\drivers\s191355\robot_base.cpp(103): warning C4305: '=': truncation from 'double' to 'tdble'
+c:\users\joseph\desktop\year 2\ai\racing-bot-joes1991\src\drivers\s191355\robot_base.cpp(126): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\joseph\desktop\year 2\ai\racing-bot-joes1991\src\drivers\s191355\robot_base.cpp(126): warning C4305: '+=': truncation from 'double' to 'float'
+     Creating library .\Debug/robot_base.lib and object .\Debug/robot_base.exp
+ul_vs2017_32.lib(ulError.obj) : warning LNK4099: PDB 'ul.pdb' was not found with 'ul_vs2017_32.lib(ulError.obj)' or at 'C:\Users\Joseph\Desktop\Year 2\AI\racing-bot-JoeS1991\src\drivers\s191355\Debug\ul.pdb'; linking object as if no debug info
+  robot_base.vcxproj -> C:\Users\Joseph\Desktop\Year 2\AI\racing-bot-JoeS1991\src\drivers\s191355\.\Debug\s191355.dll
+  C:\Users\Joseph\Desktop\Year 2\AI\racing-bot-JoeS1991\src\drivers\s191355\Debug\s191355.dll
+          1 file(s) copied.
